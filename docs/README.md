@@ -1,9 +1,9 @@
 <div align="center"> 
   <img referrerpolicy="no-referrer-when-downgrade" src="https://omnimcp.ai/_next/image?url=https%3A%2F%2Fstatic.footprint.network%2Fomnimcp%2Flogo%2Flogo-text.png&w=256&q=75" />
+  <p>The "Tool Marketplace" Making AI Agents Smarter and Simpler<p>
 </div>
-</br>
 
-# **The "Tool Marketplace" Making AI Agents Smarter and Simpler**
+## **What is OmniMCP?**
 
 OmniMCP is a decentralized "tool supermarket" that allows intelligent agents (Agents) to easily connect with various tools and data sources while using Web3 technology to help tool developers share their creations and receive rewards. Through innovative technology, we connect AI with the tool ecosystem, empowering AI to truly solve practical problems. Our mission is to lower the barriers to AI application development, allowing both users and enterprises to easily build customized intelligent solutions.
 
